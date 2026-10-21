@@ -1,4 +1,4 @@
-name: Build Hugo Mod
+name: Build HugoBreak
 
 on:
   push:
@@ -26,7 +26,7 @@ jobs:
 
       - uses: actions/upload-artifact@v4
         with:
-          name: hugo-mod
+          name: hugo-break
           path: |
             build/libs/*.jar
             !build/libs/*-sources.jar
