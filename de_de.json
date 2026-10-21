@@ -1,0 +1,17 @@
+{
+  "key.hugo.config": "Hugo-Menü öffnen",
+  "key.category.hugo.main": "Hugo",
+  "hugo.config.title": "Hugo – Auto-Reparatur",
+  "hugo.config.enabled": "Mod",
+  "hugo.config.hud": "HUD",
+  "hugo.config.command": "Command (ohne /)",
+  "hugo.config.mode.percent": "Modus: Prozent",
+  "hugo.config.mode.absolute": "Modus: Haltbarkeit",
+  "hugo.config.threshold": "Schwelle: %s",
+  "hugo.config.mainhand": "Haupthand",
+  "hugo.config.offhand": "Nebenhand",
+  "hugo.config.armor": "Rüstung",
+  "hugo.config.cooldown": "Cooldown: %ss",
+  "hugo.config.hudx": "HUD X: %s",
+  "hugo.config.hudy": "HUD Y: %s"
+}
